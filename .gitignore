@@ -1,0 +1,13 @@
+# 金鑰與本機環境：不進技能包
+client_secret*.json
+token*.json
+*.env
+config.json
+.welly-seo/
+.venv/
+__pycache__/
+*.pyc
+
+# 報告草稿與截圖含內部數據
+drafts/
+*.png
